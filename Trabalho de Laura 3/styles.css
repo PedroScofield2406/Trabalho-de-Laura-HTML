@@ -1,0 +1,51 @@
+body {
+    background-color: whitesmoke;
+}
+.fundoInicio {
+    background-color: #262626;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+}
+h1 {
+    color:white;
+}
+button {
+    background: none;
+    color:white;
+    border: none;
+}
+table {
+    margin: 10px auto;
+    text-align: center;
+    padding: 20px;
+    width: 1000px;
+    border-collapse: collapse;
+}
+th {
+    color:white;
+    background-color: #262626;
+    text-align: left;
+    padding: 20px;
+    border: 0.5px solid white;
+}
+td {
+    border: 0.5px solid gray;
+    text-align: left;
+    padding: 20px;
+} 
+.fundoDeLista {
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 20px auto;
+    margin-right: 50px;
+    margin-left: 50px;
+    border-radius: 8px;
+
+}
+.corBranca {
+    color:white;
+    padding: 20px;
+}
